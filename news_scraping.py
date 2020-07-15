@@ -99,7 +99,7 @@ def job():
             bbc, bbc_headline, cnn, cnn_headline, cnbc, cnbc_headline, reuters, reuters_headline)
         }}]
 
-    slack_token = 'xoxb-540800786180-1203265013317-HqF3P3DzHC223MlUug5eHrAa'
+    slack_token = 'xoxb-your-bot-token'
     slack_channel = '#test'
     slack_icon_url = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuGqps7ZafuzUsViFGIremEL2a3NR0KO0s0RTCMXmzmREJd5m4MA&s'
     slack_user_name = 'News Bot'
